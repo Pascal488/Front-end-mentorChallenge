@@ -1,6 +1,6 @@
 # Frontend Mentor - Clipboard landing page
 
-# BUILT BY PASCHAL MAXIMILLIAN
+# CODED BY PASCHAL MAXIMILLIAN
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
